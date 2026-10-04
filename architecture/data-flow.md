@@ -35,3 +35,7 @@ The application consists of a document processing pipeline and a retrieval-augme
 * Resolve sources using retrieved metadata rather than model-generated source names.
 * Handle structured LLM responses.
 * Keep credentials outside source code.
+
+## Architecture Diagram
+
+![Project Architecture](architecture/architecture.png)
