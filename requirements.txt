@@ -1,0 +1,5 @@
+streamlit
+openai
+sentence-transformers
+databricks-ai-search
+databricks-sdk
