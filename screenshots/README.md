@@ -16,7 +16,7 @@ Add the actual screenshots captured from the deployed Databricks App.
 
 Shows the main chatbot interface and question input area.
 
-![Application Home](app_home.png)
+![Application Home](chatbot_home.png)
 
 ### 2. Question and Answer
 
@@ -24,7 +24,7 @@ Shows the main chatbot interface and question input area.
 
 Shows an example technical question and the generated response.
 
-![Chat Response](chat_response.png)
+![Chat Response](chatbot_answer.png)
 
 ### 3. Source Citations
 
