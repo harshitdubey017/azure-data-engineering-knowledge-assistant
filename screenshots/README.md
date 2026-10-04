@@ -36,11 +36,11 @@ Demonstrates how retrieved source references are displayed alongside the generat
 
 ### 4. Retrieved Context
 
-**File:** `retrieved_context.png`
+**File:** `retrieval_evaluation.png`
 
 Shows the supporting context retrieved from the knowledge base.
 
-![Retrieved Context](retrieved_context.png)
+![Retrieved Context](retrieval_evaluation.png)
 
 ### 5. Out-of-Scope Question
 
