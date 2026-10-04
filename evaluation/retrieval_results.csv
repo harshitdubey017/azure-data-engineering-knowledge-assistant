@@ -1,0 +1,31 @@
+question,expected_document,category,difficulty,rank_1,rank_2,rank_3,hit_at_1,hit_at_3,reciprocal_rank
+What is Azure Data Factory?,azure_data_factory.md,ADF,Easy,azure_data_factory.md,databricks_best_practices.md,azure_devops_cicd.md,1,1,1
+How does incremental loading work in Azure Data Factory?,adf_incremental_load.md,ADF,Easy,adf_incremental_load.md,azure_data_factory.md,databricks_best_practices.md,1,1,1
+What is a watermark in an incremental data pipeline?,adf_incremental_load.md,ADF,Medium,adf_incremental_load.md,adf_incremental_load.md,azure_data_factory.md,1,1,1
+How can failed ADF activities be handled?,adf_error_handling.md,ADF,Medium,adf_error_handling.md,adf_error_handling.md,azure_data_factory.md,1,1,1
+How can errors be monitored in an ADF pipeline?,adf_error_handling.md,ADF,Medium,adf_error_handling.md,azure_data_factory.md,azure_data_factory.md,1,1,1
+How can Azure Data Factory orchestrate data engineering workflows?,azure_data_factory.md,ADF,Medium,azure_data_factory.md,azure_devops_cicd.md,databricks_best_practices.md,1,1,1
+What are common best practices when developing Databricks workloads?,databricks_best_practices.md,Databricks,Easy,databricks_best_practices.md,pyspark.md,databricks_best_practices.md,1,1,1
+How can Databricks workloads be optimized?,databricks_best_practices.md,Databricks,Medium,databricks_best_practices.md,spark_performance.md,spark_performance.md,1,1,1
+What are important considerations when designing Databricks data pipelines?,databricks_best_practices.md,Databricks,Medium,databricks_best_practices.md,pyspark.md,azure_data_factory.md,1,1,1
+How can Spark jobs be optimized in Databricks?,spark_performance.md,Databricks,Hard,spark_performance.md,databricks_best_practices.md,pyspark.md,1,1,1
+How does data skew affect Spark performance?,spark_performance.md,Spark,Medium,spark_performance.md,pyspark.md,pyspark.md,1,1,1
+What causes data skew in Spark?,spark_performance.md,Spark,Medium,spark_performance.md,pyspark.md,pyspark.md,1,1,1
+How can Spark data skew be reduced?,spark_performance.md,Spark,Hard,spark_performance.md,pyspark.md,pyspark.md,1,1,1
+What is the impact of partitioning on Spark performance?,spark_performance.md,Spark,Medium,spark_performance.md,pyspark.md,pyspark.md,1,1,1
+How can PySpark workloads be optimized?,spark_performance.md,Spark,Medium,pyspark.md,spark_performance.md,spark_performance.md,0,1,0.5
+What is Delta Lake?,delta_lake.md,Delta Lake,Easy,delta_lake.md,azure_data_factory.md,databricks_best_practices.md,1,1,1
+How does Delta Lake provide ACID transactions?,delta_lake.md,Delta Lake,Medium,delta_lake.md,azure_data_factory.md,databricks_best_practices.md,1,1,1
+What is Delta Lake MERGE used for?,delta_lake.md,Delta Lake,Medium,delta_lake.md,databricks_best_practices.md,azure_data_factory.md,1,1,1
+How does Delta Lake support reliable data processing?,delta_lake.md,Delta Lake,Medium,delta_lake.md,azure_data_factory.md,databricks_best_practices.md,1,1,1
+What are the key capabilities of Delta Lake?,delta_lake.md,Delta Lake,Easy,delta_lake.md,databricks_best_practices.md,azure_data_factory.md,1,1,1
+What is Unity Catalog?,unity_catalog.md,Unity Catalog,Easy,unity_catalog.md,databricks_best_practices.md,azure_devops_cicd.md,1,1,1
+How does Unity Catalog provide data governance?,unity_catalog.md,Unity Catalog,Medium,unity_catalog.md,databricks_best_practices.md,azure_devops_cicd.md,1,1,1
+How can access to data be governed using Unity Catalog?,unity_catalog.md,Unity Catalog,Medium,unity_catalog.md,databricks_best_practices.md,azure_devops_cicd.md,1,1,1
+What capabilities does Unity Catalog provide for data governance?,unity_catalog.md,Unity Catalog,Medium,unity_catalog.md,databricks_best_practices.md,azure_devops_cicd.md,1,1,1
+What is PySpark?,pyspark.md,PySpark,Easy,pyspark.md,spark_performance.md,pyspark.md,1,1,1
+How are DataFrames used in PySpark?,pyspark.md,PySpark,Easy,pyspark.md,spark_performance.md,pyspark.md,1,1,1
+How does PySpark process distributed data?,pyspark.md,PySpark,Medium,pyspark.md,spark_performance.md,databricks_best_practices.md,1,1,1
+How can SQL queries be optimized?,sql_optimization.md,SQL,Medium,sql_optimization.md,sql_optimization.md,spark_performance.md,1,1,1
+What techniques can improve SQL query performance?,sql_optimization.md,SQL,Medium,sql_optimization.md,sql_optimization.md,spark_performance.md,1,1,1
+How can Azure DevOps be used for ADF CI/CD?,azure_devops_cicd.md,Azure DevOps,Medium,azure_devops_cicd.md,azure_data_factory.md,azure_data_factory.md,1,1,1

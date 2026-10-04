@@ -1,0 +1,31 @@
+﻿question,expected_document,category,difficulty
+What is Azure Data Factory?,azure_data_factory.md,ADF,Easy
+How does incremental loading work in Azure Data Factory?,adf_incremental_load.md,ADF,Easy
+What is a watermark in an incremental data pipeline?,adf_incremental_load.md,ADF,Medium
+How can failed ADF activities be handled?,adf_error_handling.md,ADF,Medium
+How can errors be monitored in an ADF pipeline?,adf_error_handling.md,ADF,Medium
+How can Azure Data Factory orchestrate data engineering workflows?,azure_data_factory.md,ADF,Medium
+What are common best practices when developing Databricks workloads?,databricks_best_practices.md,Databricks,Easy
+How can Databricks workloads be optimized?,databricks_best_practices.md,Databricks,Medium
+What are important considerations when designing Databricks data pipelines?,databricks_best_practices.md,Databricks,Medium
+How can Spark jobs be optimized in Databricks?,spark_performance.md,Databricks,Hard
+How does data skew affect Spark performance?,spark_performance.md,Spark,Medium
+What causes data skew in Spark?,spark_performance.md,Spark,Medium
+How can Spark data skew be reduced?,spark_performance.md,Spark,Hard
+What is the impact of partitioning on Spark performance?,spark_performance.md,Spark,Medium
+How can PySpark workloads be optimized?,spark_performance.md,Spark,Medium
+What is Delta Lake?,delta_lake.md,Delta Lake,Easy
+How does Delta Lake provide ACID transactions?,delta_lake.md,Delta Lake,Medium
+What is Delta Lake MERGE used for?,delta_lake.md,Delta Lake,Medium
+How does Delta Lake support reliable data processing?,delta_lake.md,Delta Lake,Medium
+What are the key capabilities of Delta Lake?,delta_lake.md,Delta Lake,Easy
+What is Unity Catalog?,unity_catalog.md,Unity Catalog,Easy
+How does Unity Catalog provide data governance?,unity_catalog.md,Unity Catalog,Medium
+How can access to data be governed using Unity Catalog?,unity_catalog.md,Unity Catalog,Medium
+What capabilities does Unity Catalog provide for data governance?,unity_catalog.md,Unity Catalog,Medium
+What is PySpark?,pyspark.md,PySpark,Easy
+How are DataFrames used in PySpark?,pyspark.md,PySpark,Easy
+How does PySpark process distributed data?,pyspark.md,PySpark,Medium
+How can SQL queries be optimized?,sql_optimization.md,SQL,Medium
+What techniques can improve SQL query performance?,sql_optimization.md,SQL,Medium
+How can Azure DevOps be used for ADF CI/CD?,azure_devops_cicd.md,Azure DevOps,Medium
