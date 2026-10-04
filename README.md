@@ -180,4 +180,6 @@ Credentials, tokens, and secrets must be configured securely and must never be c
 ## Disclaimer
 This is a personal learning and portfolio project. All documentation and sample data included in the repository are intended for demonstration and educational purposes.
 
-This is a personal learning and portfolio project. All documentation and sample data included in the repository are intended for demonstration and educational purposes.
+## Architecture Diagram
+
+![Project Architecture](architecture/architecture.png)
