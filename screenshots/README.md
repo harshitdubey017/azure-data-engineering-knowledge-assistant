@@ -12,7 +12,7 @@ Add the actual screenshots captured from the deployed Databricks App.
 
 ### 1. Application Interface
 
-**File:** `app_home.png`
+**File:** `chatbot_home.png`
 
 Shows the main chatbot interface and question input area.
 
@@ -20,7 +20,7 @@ Shows the main chatbot interface and question input area.
 
 ### 2. Question and Answer
 
-**File:** `chat_response.png`
+**File:** `chatbot_answer.png`
 
 Shows an example technical question and the generated response.
 
